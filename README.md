@@ -4,5 +4,9 @@
        
 **关键词：市场监管；人工智能；智能监管；监管体系；社会共治**
 
+## 说明
+- ***Data references CNKI*** 中国知网搜索的参考文献原始数据
+- ***Data network Gephi*** 词频共现网络数据，包括节点和边数据（.csv）和网络数据（.gephi）
+
 ## 用词频共现网络分析领域热点
 <img src="imgs/Word co-occurrence network.png" height="200px" width="auto"/> 
