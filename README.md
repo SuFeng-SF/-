@@ -11,4 +11,4 @@
 
 ## 用词频共现网络分析领域热点
 <img src="imgs/Word co-occurrence network.png" height="200px" width="auto"/> 
-<img src="imgs/Wordcloud.png" height="200px" width="auto"/> 
+<img src="imgs/wordcloud.png" height="200px" width="auto"/> 
