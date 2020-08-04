@@ -7,6 +7,8 @@
 ## 说明
 - ***Data references CNKI*** 中国知网搜索的参考文献原始数据
 - ***Data network Gephi*** 词频共现网络数据，包括节点和边数据（.csv）和网络数据（.gephi）
+- ***Data wordcloud*** 分类词云，政府管理、关键概念、市场应用、技术支持
 
 ## 用词频共现网络分析领域热点
 <img src="imgs/Word co-occurrence network.png" height="200px" width="auto"/> 
+<img src="imgs/Wordcloud.png" height="200px" width="auto"/> 
