@@ -10,5 +10,5 @@
 - ***Data wordcloud*** 分类词云，政府管理、监管理论、市场应用、技术支撑
 
 ## 用词频共现网络分析领域热点
-<img src="imgs/Word co-occurrence network.png" height="300px" width="auto"/> 
-<img src="imgs/wordcloud.png" height="400px" width="auto"/> 
+<img src="imgs/Word co-occurrence network.png" height="200px" width="auto"/> 
+<img src="imgs/wordcloud.png" height="300px" width="auto"/> 
